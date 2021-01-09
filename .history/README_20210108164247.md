@@ -2,10 +2,7 @@
 
 This ReactJS web app uses Google's Book Search API to search and save books by keyword:
 
-## Getting Started
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+https://kaitlynmidori.github.io/google-book-search/
 
 ## Built With
 
